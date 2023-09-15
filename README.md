@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tejashripatil25
-- 👀 I’m interested in Data science,Machine learning...
+- 👀 I’m interested in Python, Data science, Machine learning...
 
 👋 Welcome to My Data Science & Machine Learning Playground! 🚀
 
@@ -8,7 +8,7 @@ Explore, Learn, and Code Your Way to Mastery!
 📊 Dive into the World of Data Science
 Unlock the power of data with insightful analyses, visualization, and predictive modeling. 📈
 
-🐍 Master Python for Machine Learning
+🐍 Python for Machine Learning
 Harness the Python programming language to build cutting-edge ML solutions. 🐍
 
 👩‍💻 Code Along and Level Up
