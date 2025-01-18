@@ -9,7 +9,7 @@ Explore, Learn, and Code Your Way to Mastery!
 Unlock the power of data with insightful analyses, visualization, and predictive modeling. 📈
 
 🐍 Python for Machine Learning
-Harness the Python programming language to build cutting-edge ML solutions. 🐍
+Harness the Python programming language to build cutting-edge ML solutions. 
 
 👩‍💻 Code Along and Level Up
 Join me on this coding journey as we tackle real-world projects and challenges. 💡
@@ -23,4 +23,4 @@ Let's build a thriving community of data enthusiasts. Share ideas, collaborate o
 🔥 Ready to Get Started?
 Explore the repositories, dive into the code, and embark on your data science adventure today! 🌟
 
-Happy Coding! 🚀📊🐍👩‍💻📚🌐🔥 #DataScience #MachineLearning #Python #GitHub #Coding #Learning
+Happy Coding! 🚀📊🐍👩‍💻📚🌐🔥 #DataScience #MachineLearning #Python #GitHub #Coding #Learning #Gen AI
